@@ -1,0 +1,14 @@
+body {
+    font-family: "Langar", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 100vw;
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 4rem;
+    letter-spacing: 0.5rem;
+    text-transform: uppercase;
+}
